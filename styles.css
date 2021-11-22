@@ -1,0 +1,137 @@
+p{
+    color:rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    width: 70%;
+    
+    
+}
+
+.lists{
+    color: whitesmoke;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    width: 70%;
+    padding-left: 25%;
+}
+
+.largetext{
+   font-style: italic;
+   font-size: 170%;
+}
+
+
+/* I tried to be a little organized and went ahead and put all the padding in a organized patern/area */
+
+.paddingfinal{
+    padding-left: 5%;
+}
+
+
+.plinks{
+    padding-left: 48%;
+}
+
+.paddingtitle{
+    padding-left: 15%;
+}
+
+.paddingfirst{
+    padding-left: 24.2%;
+}
+
+.paddingl{
+    padding-left: 20%;
+}
+.padding{
+    padding-bottom: 3%;
+}
+
+.paddingt{
+    padding-top: 3%;
+}
+
+.fontt{
+font-size: 150%;
+}
+
+h1{
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 50px;
+}
+
+.first{
+    
+    color: rgb(0, 0, 0);
+    text-align: center;
+    font-size: 30px;
+    padding-bottom: .05%;
+    
+}
+/* Down below i have the basics of creating the colors and any adjustments to make my webpage look not generic*/
+h3{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
+
+h2{
+    color: rgb(255, 255, 255);
+    text-align: center;
+    
+}
+
+
+body{
+    background-color: #6B6160;
+}
+
+hr{
+    border: 2px solid white;
+    border-radius: 50px;
+    width: 75%;
+    
+    
+}
+
+img{
+    width: 55%;
+    text-align: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10%;
+}
+
+img:hover{
+    position: relative;
+    top: -5px;
+}
+
+.title{
+    background-color: rgb(218, 214, 214);
+    border-style: solid;
+    border-radius: 10px;
+}
+
+.links{
+    text-align: center;
+}
+
+.footer-bottom{
+    background-color: rgb(218, 214, 214);
+    border-style: hidden;
+    padding: 2%;
+    text-align: center;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    height: 18px;
+}
+
+
+ul:hover{
+
+    position: relative;
+    top: -5px;
+}
